@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exersice5_uppgifter
+namespace Exersice1
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi there!");
+            Console.ReadLine();
         }
     }
 }

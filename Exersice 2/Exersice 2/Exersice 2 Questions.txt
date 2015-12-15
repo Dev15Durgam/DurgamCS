@@ -1,0 +1,33 @@
+﻿Övning 2
+
+Denna övning hör till kapitel 3 i boken.
+Repetitionsfrågor
+
+   1- Vad innebär det att instantiera en typ?
+
+   2- En instans av en typ kan även kallas något annat, vad?
+
+   3- C# skiljer på värdetyper och referenstyper. Placera följande typer i rätt kategori: int, string, bool, double, object, char
+
+   4- Att skapa program i C# handlar ytterst sett om att definiera egna datatyper, som i sin tur använder andra typer. Nämn ett par olika sorters datatyper som kan skapas, både referenstyper och värdetyper.
+
+   5- Vad innebär stack och heap för ett C#-program?
+
+   6- Vad är en variabel? Hur skapas en variabel? Vad innebär det att initiera en variabel? Vad menas med att tilldela e n variabel ett värde?
+
+Övningar
+Uppgift 1
+
+Skapa ett nytt konsol-projekt med lämpligt namn. Testa att skapa lämpliga variabler för meningarna nedan i Main. Ändra sedan i variablerna och skriv ut igen. Använd format strings för utskrifter.
+
+Exempel:   int year = 34;
+
+            Console.WriteLine("Hej jag är {0} år", year);
+
+                 Year = 55;
+
+            Console.WriteLine("Hej jag är {0} år", year);
+
+    1- Dow Jones sjönk med 4,6 procent och Nasdaq med 4,1 procent. Stockholm -2,4 procent, Milano -6,7 procent, Paris -5,5 procent.
+    2- Talet π är cirka 3.141592654 men kan avrundas till 3.14 och kan lite grovt skrivas som 3.
+    3- Han heter Jonas och bor i Helsingborg på Stattena vid Hemköp.
